@@ -1,0 +1,6 @@
+Initially, Ananya acted as the Driver and implemented the dictionary structure, Add Course
+function, and Enroll Student function.After Iteration 1, roles were switched. Prateeksha became the
+Driver and implemented the Drop Course functionality and View Enrolled Courses feature. The
+Navigator reviewed naming conventions, indentation, and suggested minor improvements in error
+handling.Both members actively participated in discussion and respected the Driver–Navigator
+discipline during the session.

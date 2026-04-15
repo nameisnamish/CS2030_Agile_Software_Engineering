@@ -1,0 +1,11 @@
+1. How did Driver and Navigator roles improve code quality?
+The Driver focused on writing correct syntax and implementing the logic, while the Navigator continuously reviewed the code and suggested improvements. This real-time review helped identify logical mistakes, improve structure, and ensure better readability. As a result, the overall code quality improved.
+
+2. Was role switching beneficial? Why?
+Yes, role switching was beneficial because it allowed both members to understand the entire codebase. It improved engagement, shared responsibility, and knowledge sharing. It also gave each member a chance to think from both implementation and design perspectives.
+
+3. How did Pair Programming reduce errors?
+Pair Programming reduced errors because the Navigator constantly reviewed the code while it was being written. Mistakes were identified and corrected immediately instead of later during testing. This continuous feedback minimized bugs and improved accuracy.
+
+4. How does Pair Programming support Agile values?
+Pair Programming supports Agile values by encouraging collaboration, communication, and continuous feedback. It promotes individuals and interactions, shared ownership of code, and collective responsibility, which are core principles of Agile development.
